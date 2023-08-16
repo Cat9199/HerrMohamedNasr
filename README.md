@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[logo_image_url](https://raw.githubusercontent.com/Cat9199/HerrMohamedNasr/master/assets/cropped-herrmn-177x59.png)" alt="Logo">
+  <img src="https://raw.githubusercontent.com/Cat9199/HerrMohamedNasr/master/assets/cropped-herrmn-177x59.png" alt="Logo">
 </p>
 
 
