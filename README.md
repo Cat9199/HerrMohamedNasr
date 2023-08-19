@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Cat9199/HerrMohamedNasr/master/assets/cropped-herrmn-177x59.png" width='100px' alt="Logo">
+  <img src="https://raw.githubusercontent.com/Cat9199/HerrMohamedNasr/master/assets/cropped-herrmn-177x59.png" width='1000px' alt="Logo">
 </p>
 
 
